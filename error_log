@@ -1,0 +1,92 @@
+[06-Feb-2011 16:43:01] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:44:10] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:45:15] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:45:19] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:45:21] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:45:33] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:50:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 36
+[06-Feb-2011 16:51:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 36
+[06-Feb-2011 16:51:24] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:51:30] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:51:32] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:51:47] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:01] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:08] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:12] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:19] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:38] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:44] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:52:47] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:53:01] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:55:26] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:55:32] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:55:45] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:56:53] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:57:42] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:57:44] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home2/rahilpat/public_html/facebook/important_feed_canvas/facebook.php on line 543
+[06-Feb-2011 16:58:00] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:58:09] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:58:13] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home2/rahilpat/public_html/facebook/important_feed_canvas/facebook.php on line 543
+[06-Feb-2011 16:58:20] Could not set cookie. Headers already sent.
+[06-Feb-2011 16:58:25] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home2/rahilpat/public_html/facebook/important_feed_canvas/facebook.php on line 543
+[06-Feb-2011 17:04:27] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:04:27] PHP Fatal error:  Uncaught OAuthException: (#100) actions should be a JSON-encoded dictionary with "name" and "link" keys
+  thrown in /home2/rahilpat/public_html/facebook/important_feed_canvas/facebook.php on line 543
+[06-Feb-2011 17:05:27] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:07:34] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:07:36] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:13:06] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:13:09] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:22:53] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:22:58] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:23:44] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:23:47] Could not set cookie. Headers already sent.
+[06-Feb-2011 17:23:52] Could not set cookie. Headers already sent.
+[09-Feb-2011 23:11:40] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[09-Feb-2011 23:11:40] Could not set cookie. Headers already sent.
+[10-Feb-2011 22:30:31] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[10-Feb-2011 22:30:31] Could not set cookie. Headers already sent.
+[12-Feb-2011 12:31:37] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[12-Feb-2011 12:31:37] Could not set cookie. Headers already sent.
+[12-Feb-2011 23:00:06] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[12-Feb-2011 23:00:07] Could not set cookie. Headers already sent.
+[13-Feb-2011 13:56:05] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[13-Feb-2011 13:56:05] Could not set cookie. Headers already sent.
+[14-Feb-2011 08:29:31] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[14-Feb-2011 08:29:31] Could not set cookie. Headers already sent.
+[14-Feb-2011 22:36:24] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[14-Feb-2011 22:36:24] Could not set cookie. Headers already sent.
+[15-Feb-2011 22:45:25] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[15-Feb-2011 22:45:25] Could not set cookie. Headers already sent.
+[16-Feb-2011 22:17:56] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[16-Feb-2011 22:17:56] Could not set cookie. Headers already sent.
+[17-Feb-2011 22:13:08] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[17-Feb-2011 22:13:08] Could not set cookie. Headers already sent.
+[18-Feb-2011 23:14:12] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[18-Feb-2011 23:14:12] Could not set cookie. Headers already sent.
+[19-Feb-2011 12:31:13] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[19-Feb-2011 12:31:13] PHP Warning:  http_build_query() [<a href='function.http-build-query'>function.http-build-query</a>]: Parameter 1 expected to be Array or Object.  Incorrect value given in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 112
+[19-Feb-2011 13:30:38] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[19-Feb-2011 13:30:38] PHP Warning:  http_build_query() [<a href='function.http-build-query'>function.http-build-query</a>]: Parameter 1 expected to be Array or Object.  Incorrect value given in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 112
+[25-May-2011 22:06:27] Could not set cookie. Headers already sent.
+[31-May-2011 13:16:16] Could not set cookie. Headers already sent.
+[31-May-2011 14:12:05] Could not set cookie. Headers already sent.
+[14-Jun-2011 19:39:51] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=147434471982112&amp;redirect_uri=http%3A%2F%2Fapps.facebook.com%2Fimportant_feed%2F&amp;client_secret=6b8f06a8e677511b80fa33bcec51c1b1&amp;code=2.GTh2Fuw6SU1vjrTHlfNNZw__.3600.1296972000-33608046|liuHgwUugcevONJhVGY-jSov_8Y) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/rahilpat/public_html/facebook/important_feed_canvas/index.php on line 244
+[14-Jun-2011 19:39:51] Could not set cookie. Headers already sent.
